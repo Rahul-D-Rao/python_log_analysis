@@ -103,7 +103,7 @@ pytest tests/
 
 ## Log Analysis file
 
-The `notebooks` directory contains Jupyter Notebooks for interactive exploration and visualization of log data:
+The `file` contains for interactive exploration and visualization of log data:
 
 - `log_analysis.py`: A python script for performing exploratory data analysis on the log files.
 
