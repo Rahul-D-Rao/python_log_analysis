@@ -1,0 +1,26 @@
+python_log_analysis/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── sample_logs/
+│   │   ├── access.log
+│   │   └── system.log
+│   └── parsed_logs/
+│
+├── src/
+│   ├── __init__.py
+│   ├── log_parser.py
+│   ├── log_filter.py
+│   ├── utils.py
+│   └── main.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_log_parser.py
+│   ├── test_log_filter.py
+│   └── test_utils.py
+├── README.md
+├── log_analysis.py
+├── .gitignore
+└── File_Structure.txt

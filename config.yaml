@@ -1,0 +1,10 @@
+sample_logs_dir: data/sample_logs
+parsed_logs_dir: data/parsed_logs
+filter_criteria:
+  levels:
+    - ERROR
+    - WARNING
+  keywords:
+    - "failed"
+    - "attack"
+    - "failure"
