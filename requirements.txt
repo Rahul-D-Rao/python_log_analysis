@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+pytest
+PyYAML
+re
+logging
+yaml
+os
+sys
